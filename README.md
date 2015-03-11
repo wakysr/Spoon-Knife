@@ -1,6 +1,6 @@
 ### Well hello there!
 
-2015-03-11
+2015-03-11, Wed, MM.my
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
